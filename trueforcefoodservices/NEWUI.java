@@ -183,7 +183,7 @@ public class NEWUI extends javax.swing.JFrame {
 
     private void jMenu2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jMenu2MouseClicked
         // TODO add your handling code here:
-        JOptionPane.showMessageDialog(null, "Developers Group4 assignment\n"+" MIGUEL PATRICK ARQUERO\n," +"GLORIA MARISSE BACLAY\n" + "Jhoren Dollete ");
+        JOptionPane.showMessageDialog(null, "Developers Group4 assignment\n"+" YOUR_NAME\n," +"YOUR_NAME\n" + "YOUR_NAME");
         
     }//GEN-LAST:event_jMenu2MouseClicked
 
